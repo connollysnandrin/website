@@ -11,16 +11,19 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "netlify-cms": "^2.10.54",
-    "nuxt": "^2.0.0",
+    "autoprefixer": "^10.4.0",
+    "netlify-cms": "^2.10.181",
+    "nuxt": "^2.15.8",
     "nuxt-responsive-loader": "^2.0.1",
+    "postcss": "^8.4.5",
     "responsive-loader": "latest",
     "sharp": "^0.25.2",
-    "smoothscroll-polyfill": "^0.4.4"
+    "smoothscroll-polyfill": "^0.4.4",
+    "tailwindcss": "^3.0.2"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^1.0.0",
-    "node-sass": "^4.13.1",
-    "sass-loader": "^8.0.2"
+    "@nuxtjs/tailwindcss": "^4.2.1",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^10"
   }
 }
