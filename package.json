@@ -1,0 +1,26 @@
+{
+  "name": "connolly",
+  "version": "1.0.0",
+  "description": "website",
+  "author": "Younnes Ansouri",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "netlify-cms": "^2.10.54",
+    "nuxt": "^2.0.0",
+    "nuxt-responsive-loader": "^2.0.1",
+    "responsive-loader": "latest",
+    "sharp": "^0.25.2",
+    "smoothscroll-polyfill": "^0.4.4"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0",
+    "node-sass": "^4.13.1",
+    "sass-loader": "^8.0.2"
+  }
+}

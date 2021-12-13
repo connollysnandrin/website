@@ -1,0 +1,32 @@
+
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: 'connolys'
+    label: 'Connolys'
+    format: 'json'
+    folder: 'assets/content/site'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      # - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      # - { label: 'Description', name: 'description', widget: 'string' }
+      # - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Nos Rhums', name: 'menu1', widget: 'image' }
+      - { label: 'Nos Whisky', name: 'menu2', widget: 'image' }
+      # - { label: 'Nos Suggestions', name: 'menu3', widget: 'image' }
+      -  name: "photos"
+         label: "Photos" 
+         widget: "list"
+         optional: true
+         fields:
+          # - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
