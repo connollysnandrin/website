@@ -184,9 +184,9 @@
 								<p>Fermé le lundi</p>
 							</div>
 							<div class="section__social">
-								<a href="https://www.instagram.com/connollysnandrin" target="_blank" class="social social__in">
+								<a href="https://www.instagram.com/connollys_nandrin" target="_blank" class="social social__in">
 									<img src="@/assets/img/ico_in.svg" class="icon icon__in" alt="instagram" />
-									<span>connollysnandrin</span>
+									<span>@connollys_nandrin</span>
 								</a>
 								<a href="https://www.facebook.com/Connollys-Nandrin-Restaurant-Bar-108415580720713" target="_blank" class="social social__fb">
 									<img src="@/assets/img/ico_fb.svg" class="icon icon__fb" alt="facebook" />
