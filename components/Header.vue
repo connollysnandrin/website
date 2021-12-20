@@ -24,7 +24,7 @@
 						<span class="hidden md:block">Connolly’s nandrin</span>
 					</a>
 
-					<a href="https://www.instagram.com/connollysnandrin" target="_blank" class="social">
+					<a href="https://www.instagram.com/connollys_nandrin" target="_blank" class="social">
 						<img src="@/assets/img/ico_in.svg" class="icon" alt="instagram" />
 						<span class="hidden md:block">Connolly's nandrin Restaurant-Bar</span>
 					</a>
