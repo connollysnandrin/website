@@ -119,11 +119,11 @@
 			</div>
 		</div>
 
-		<!-- <div class="section full h-screen bg-menu__5 relative" data-section="menu" data-page="menu5" ref="menu5">
+		<div class="section full h-screen bg-menu__5 relative" data-section="menu" data-page="menu5" ref="menu5">
 			<div class="img-preview">
 				<img :src="`${menuPhotos.menu3}`" @click="setCurrentPhoto(`${menuPhotos.menu3.split('/')[2]}`, 'menu', disabledMenuForMobile)" loading="lazy" class="img cursor-pointer" alt="">
 			</div>
-		</div> -->
+		</div>
 
 		<!-- PHOTOS SECTION  -->
 		<div id="photos" class="section full h-screen bg-photos relative" data-section="photos" data-page="photos" ref="photos">
