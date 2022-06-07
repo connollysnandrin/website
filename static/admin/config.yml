@@ -22,7 +22,7 @@ collections:
       # - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Nos Rhums', name: 'menu1', widget: 'image' }
       - { label: 'Nos Whisky', name: 'menu2', widget: 'image' }
-      # - { label: 'Nos Suggestions', name: 'menu3', widget: 'image' }
+      - { label: 'Notre carte', name: 'menu3', widget: 'image' }
       -  name: "photos"
          label: "Photos" 
          widget: "list"

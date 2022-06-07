@@ -1,5 +1,5 @@
 export default {
-  mode: 'universal',
+  // mode: 'universal',
   /*
   ** Headers of the page
   */
@@ -75,5 +75,6 @@ export default {
 		sizes: [640, 750, 860, 1024, 1920], 
 		adapter: require('responsive-loader/sharp'),
 		quality: 90
-	}
+	},
+  target: 'static'
 }
