@@ -181,7 +181,7 @@
 								</address>
 							</div>
 							<div class="section__info">
-								<p>Fermé le lundi</p>
+								<p>Fermé le lundi & le mardi</p>
 							</div>
 							<div class="section__social">
 								<a href="https://www.instagram.com/connollys_nandrin" target="_blank" class="social social__in">
